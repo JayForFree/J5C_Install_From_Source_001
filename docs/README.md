@@ -35,9 +35,9 @@ apache->Version : 2.4.41 (Apache Web Server)
 
 perl6->Version : 2019.03 (new perl web programming language)
 
-php->Version : 7.2.23 (web programming scripting language)
+php->Version : 7.4.4 (web programming scripting language)
 
-php->Xdebug_Version : 2.7.2 (web programming debugging for php)
+php->Xdebug_Version : 2.9.4 (web programming debugging for php)
 
 poco->Version : 1.9.4 (c++ library)
 
